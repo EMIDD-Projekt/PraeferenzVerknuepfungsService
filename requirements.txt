@@ -1,0 +1,9 @@
+Click==7.0
+Flask==1.0.2
+functools32==3.2.3.post2
+itsdangerous==1.1.0
+Jinja2==2.10
+jsonschema==2.6.0
+MarkupSafe==1.1.0
+pymongo==3.7.2
+Werkzeug==0.14.1

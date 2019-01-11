@@ -1,0 +1,17 @@
+<!doctype html>
+<center>
+<h1>ConsentCentral.org</h1>
+</center>
+</p>
+<center>
+<h2>The Place to store Usage Preferences for your Datasets across the Web</h2>
+</center>
+</p>
+<h3>API-Reference</h3>
+</p>
+<dl>
+  {% for path, docstr in urls|dictsort(false, 'key') %}
+  <dt><a href="{{ path }}">{{ path }}</a></dt>
+  <dd><pre>{{ docstr.strip() }}</pre></dd>
+  {% endfor %}
+</dl>
