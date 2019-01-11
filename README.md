@@ -1,4 +1,5 @@
-# Ausführungsservice
+# Präferenzverknüpfungsservice
+
 _Proof-of-Concept_ Implementierung der _Verknüpfungssservice_ -Komponente der _Privacy Proxy_ Architektur.
 
 Es handelt sich um ...
@@ -16,5 +17,5 @@ Es wird die Nutzng einer vituellen Umgebung [(_virtualenv_)](https://www.dpunkt.
 
     >> pip install -r requirements.txt
 
-    >> python execution.py
+    >> python PolProvServ.py
 
