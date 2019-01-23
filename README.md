@@ -22,7 +22,7 @@ Angaben zu erforderlichen Programmbibliotheken und Erweiterungen finden sich in 
 ### a) Lokale Ausführung
 Es wird die Nutzung einer vituellen Umgebung [(_virtualenv_)](https://www.dpunkt.de/common/leseproben//12951/2_Ihre%20Entwicklungsumgebung.pdf#page=15) empfohlen.
 
-Nach der [Installation von MongoDB](https://docs.mongodb.com/manual/installation/) oder der Registrierung einer gehosteten MongoDB (z.B. [hier](https://www.mongodb.com/cloud/atlas)) sowie dem Setzen der oben genannten Umgebungsvariablen werden folgende Anweisungen in der Konsole aufgerufen:
+Nach der [Installation](https://docs.mongodb.com/manual/installation/)  von MongoDB oder der Registrierung einer gehosteten Instanz der Datenbank (z.B. [hier](https://www.mongodb.com/cloud/atlas)) sowie dem Setzen der oben genannten Umgebungsvariablen werden folgende Anweisungen in der Konsole aufgerufen:
 
     >> git clone https://github.com/EMIDD-Projekt/PraeferenzVerknuepfungsService.git
 
